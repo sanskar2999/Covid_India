@@ -30,15 +30,21 @@ const PROJECTION_CONFIG = {
 
 // Red Variants
 const COLOR_RANGE = [
-  '#ffedea',
-  '#ffcec5',
-  '#ffad9f',
-  '#ff8a75',
-  '#ff5533',
-  '#e2492d',
-  '#be3d26',
-  '#9a311f',
-  '#782618'
+  '#f5e4e1',
+  "#f7dcd7",
+  "#f7d2cb",
+  "#facac0",
+  "#f5baae",
+  "#f5b0a2",
+  "#f7a392",
+  "#f7937e",
+  "#f2826b",
+  "#f7785e",
+  "#f06a4f",
+  "#f55a3b",
+  "#f54b2a",
+  "#f73f1b",
+  "#b82002"
 ];
 
 const DEFAULT_COLOR = '#EEE';

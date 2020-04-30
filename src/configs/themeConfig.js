@@ -3,10 +3,10 @@
 //Template config options
 const themeConfig = {
   layout: "vertical", // options[String]: "vertical"(default), "horizontal"
-  theme: "light", // options[String]: 'light'(default), 'dark', 'semi-dark'
-  sidebarCollapsed: false, // options[Boolean]: true, false(default)
+  theme: "dark", // options[String]: 'light'(default), 'dark', 'semi-dark'
+  sidebarCollapsed: true, // options[Boolean]: true, false(default)
   navbarColor: "success", // options[String]: default / primary / success / danger / info / warning / dark
-  navbarType: "floating", // options[String]: floating(default) / static / sticky / hidden
+  navbarType: "hidden", // options[String]: floating(default) / static / sticky / hidden
   footerType: "static", // options[String]: static(default) / sticky / hidden
   disableCustomizer: true, // options[Boolean]: true, false(default)
   hideScrollToTop: false, // options[Boolean]: true, false(default)
