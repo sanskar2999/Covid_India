@@ -79,7 +79,7 @@
     "redux-debounced": "~0.5.0",
     "redux-thunk": "~2.3.0",
     "styled-components": "^5.0.1",
-    "swiper": "^5.3.0",
+    "swiper": "^6.5.1",
     "xlsx": "^0.15.5",
     "yarn": "^1.21.1",
     "yup": "^0.28.1",
